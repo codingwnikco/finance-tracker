@@ -1,6 +1,6 @@
-# KASA — Personal Finance Terminal
+# Personal Finance Terminal
 
-Brutalistický finance tracker s terminálovou estetikou. Žiadne frameworky, žiadne závislosti — čistý HTML, CSS a JavaScript.
+je to vlastne dashboard na ktorom si mozte trackovat vase prijmy a vydavky a tak
 
 ## Funkcie
 
